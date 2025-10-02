@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/bg.gif" width="700" height="300">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/atqraxiaa/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/atqraxiaa/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
